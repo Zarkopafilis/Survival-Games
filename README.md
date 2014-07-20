@@ -1,5 +1,5 @@
-Survival Games by Double0negative
-=================================
+Survival Games by Double0negative - Slightly modified to fit our needs
+======================================================================
 Survival Games is a plugin that has the aim of creating a fully automated hunger games style experience. The plugin was created to be simple to use, and to be easily setup on any type of server, no matter the size or type! Survival Games provides a way for your server to have a full fledged, fully automated hunger games experience for any player. For more information on the aim of the plugin, watch popular youtuber AntVenom play Survival Games [HERE](http://www.youtube.com/watch?v=Lxqk1SRqW6I).
 
 Requirments
