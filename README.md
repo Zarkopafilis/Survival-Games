@@ -54,3 +54,5 @@ If you have for example 6 arenas, and you want every player to be able to join a
  - sg.arena.join
  - sg.arena.vote
  - sg.lobby.join
+
+No , I wont be pasting my code.
